@@ -10,7 +10,7 @@ jobs:
       matrix:
 # List of keymap json files to build
         file:
-        - q10_ansi_knob_ahsparks.json
+          - Q10_US_Knob_V1.1_ahsparks.json
 # End of json file list
 
     steps:
